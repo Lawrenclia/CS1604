@@ -1,0 +1,9 @@
+bacacab
+a1a1=
+b1b1=
+c1c1=
+(start)a=(end)1a1
+(start)b=(end)1b1
+(start)c=(end)1c1
+11=(return)false
+=(return)true
