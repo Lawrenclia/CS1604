@@ -1,5 +1,0 @@
-sws
-SetWindowTitle SetWindowIcon
-SetWindowIcons SetWindowPosition
-SetWindowMonitor SetWindowMinSize SetWindowMaxSize
-ResetWindowShape SetWindowPosition
