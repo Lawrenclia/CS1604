@@ -1,4 +1,7 @@
-## Ciallo 👋
+## I'm currently learning CPP.
+## This is a repository that I store my CPP homework.
+## The course code is CS1604 in Shanghai Jiao Tong University.
+
 
 <!--
 **ChiangHX/chianghx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
