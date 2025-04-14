@@ -1,8 +1,0 @@
-6 9
-Input
-Const 2
-Div
-Assign x
-Output x
-Sleep 2
-100 100 -100 -100 30 30 15 15 2
