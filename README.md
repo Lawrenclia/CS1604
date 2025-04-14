@@ -1,7 +1,7 @@
-## I'm currently learning CPP.
-## This is a repository that I store my CPP homework.
-## The course code is CS1604 in Shanghai Jiao Tong University.
-
+I'm currently learning CPP.
+This is a repository that I store my CPP homework.
+The course code is (2024-2025-2)-CS1604-01程序设计原理与方法 in Shanghai Jiao Tong University.
+## https://oc.sjtu.edu.cn/courses/75883
 
 <!--
 **ChiangHX/chianghx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
