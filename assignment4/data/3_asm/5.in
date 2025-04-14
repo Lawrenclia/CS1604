@@ -1,0 +1,26 @@
+24 4
+Input
+Assign vx
+Sleep 1
+Input
+Assign vy
+Var vx
+Var vy
+JmpEq 21
+Var vx
+Var vy
+JmpLt 16
+Var vx
+Var vy
+Sub
+Assign vx
+Jmp 20
+Var vy
+Var vx
+Sub
+Assign vy
+Jmp 5
+Output vx
+Sleep 1
+Output 0
+123194890 124124 123194890 124124

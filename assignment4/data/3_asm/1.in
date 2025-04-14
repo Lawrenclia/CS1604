@@ -1,0 +1,11 @@
+9 13
+Const 100
+Input
+JmpEq 5
+Sleep 1
+Jmp 0
+Output 100
+Sleep 1
+Output 0
+Sleep 1
+0 0 0 100 100 100 100 100 100 100 100 0 0
