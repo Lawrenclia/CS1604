@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1741952604 source:d:\cpp\cpp_cs1604\challenge1\yingyangmap\main.cpp
+	"raylib.h"
+	"raygui.h"
+	<cmath>
+
+1742728684 source:d:\cpp\cs1604\yingyang\yingyangmap\main.cpp
+	"raylib.h"
+	"raygui.h"
+	<cmath>
+

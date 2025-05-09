@@ -1,0 +1,8 @@
+abc
+(once)=(start)t
+(start)ta=(end)ta
+(start)tb=(end)tb
+(start)tc=(end)tc
+at=(start)a
+bt=(start)b
+ct=(start)c
