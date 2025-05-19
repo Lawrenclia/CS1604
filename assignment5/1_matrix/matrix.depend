@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1745732824 source:d:\cpp\cs1604\assignment5\1_matrix\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	"matrix.h"
+
+1745735850 d:\cpp\cs1604\assignment5\1_matrix\matrix.h
+	<string>
+	<sstream>
+	<ostream>
+	<vector>
+
+1745735909 source:d:\cpp\cs1604\assignment5\1_matrix\matrix.cpp
+	"matrix.h"
+

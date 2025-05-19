@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1745807196 source:d:\cpp\cs1604\assignment5\2_gitarray\gitarray.cpp
+	"gitArray.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1745806110 d:\cpp\cs1604\assignment5\2_gitarray\gitarray.h
+	<string>
+	<vector>
+	<map>
+
+1747386554 source:d:\cpp\cs1604\assignment5\2_gitarray\main.cpp
+	<iostream>
+	<sstream>
+	"gitArray.h"
+	<string>
+

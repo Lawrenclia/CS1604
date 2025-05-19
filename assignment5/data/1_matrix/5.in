@@ -1,0 +1,10 @@
+new A 2 3
+new B 3 2
+set A 0 0 1
+set A 0 1 2
+set A 0 2 3
+set B 0 0 4
+set B 1 0 5
+set B 2 0 6
+mul A B C
+print C

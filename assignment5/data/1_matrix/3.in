@@ -1,0 +1,6 @@
+new A 2 2
+new B 2 2
+set A 0 0 1
+set B 0 0 2
+add A B C
+print C

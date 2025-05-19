@@ -1,0 +1,8 @@
+new A 2 2
+set A 0 0 1
+set A 0 1 2
+set A 1 0 3
+set A 1 1 4
+print A
+get A 1 1
+error A
