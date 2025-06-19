@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1748053628 source:d:\cpp\cs1604\final\final\battlefield\actions.cpp
+	"actions.h"
+	"unit.h"
+	<cmath>
+	<cassert>
+	<vector>
+
+1748053632 d:\cpp\cs1604\final\final\battlefield\actions.h
+	<vector>
+	"field.h"
+
+1747812471 d:\cpp\cs1604\final\final\battlefield\field.h
+	"Grid.h"
+	"terrain.h"
+	"unit.h"
+
+1747724672 d:\cpp\cs1604\final\final\battlefield\grid.h
+	<vector>
+	<cassert>
+	<iostream>
+
+1748081076 d:\cpp\cs1604\final\final\battlefield\terrain.h
+	<string>
+
+1748081076 d:\cpp\cs1604\final\final\battlefield\unit.h
+
+1747724672 source:d:\cpp\cs1604\final\final\battlefield\algorithms.cpp
+	"algorithms.h"
+	<vector>
+	"Grid.h"
+	<cassert>
+
+1747724672 d:\cpp\cs1604\final\final\battlefield\algorithms.h
+	"Grid.h"
+	"field.h"
+
+1748094470 source:d:\cpp\cs1604\final\final\battlefield\field.cpp
+	<cassert>
+	"field.h"
+
+1747724672 source:d:\cpp\cs1604\final\final\battlefield\main.cpp
+	<iostream>
+	"field.h"
+	"engine.h"
+
+1748070936 d:\cpp\cs1604\final\final\battlefield\engine.h
+	<iostream>
+	"field.h"
+
+1748081081 source:d:\cpp\cs1604\final\final\battlefield\terrain.cpp
+	<cassert>
+	"terrain.h"
+
+1748094470 source:d:\cpp\cs1604\final\final\battlefield\unit.cpp
+	<string>
+	<cassert>
+	"unit.h"
+	<iostream>
+
+1748094470 source:d:\cpp\cs1604\final\final\battlefield\engine.cpp
+	<iomanip>
+	"engine.h"
+	"terrain.h"
+	"unit.h"
+	"actions.h"
+	"algorithms.h"
+	<sstream>
+	<string>
+	<vector>
+
+1747724672 source:d:\cpp\cs1604\final\final\source\1_task1\actions.cpp
+	"actions.h"
+	"unit.h"
+	<cmath>
+	<cassert>
+	<vector>
+
+1747724672 d:\cpp\cs1604\final\final\source\1_task1\actions.h
+	<vector>
+	"field.h"
+
+1747812471 d:\cpp\cs1604\final\final\source\1_task1\field.h
+	"Grid.h"
+	"terrain.h"
+	"unit.h"
+
+1747724672 d:\cpp\cs1604\final\final\source\1_task1\grid.h
+	<vector>
+	<cassert>
+	<iostream>
+
+1748014365 d:\cpp\cs1604\final\final\source\1_task1\terrain.h
+	<string>
+
+1747724672 d:\cpp\cs1604\final\final\source\1_task1\unit.h
+
+1747724672 source:d:\cpp\cs1604\final\final\source\1_task1\algorithms.cpp
+	"algorithms.h"
+	<vector>
+	"Grid.h"
+	<cassert>
+
+1747724672 d:\cpp\cs1604\final\final\source\1_task1\algorithms.h
+	"Grid.h"
+	"field.h"
+
+1748048765 source:d:\cpp\cs1604\final\final\source\1_task1\field.cpp
+	<cassert>
+	"field.h"
+
+1747724672 source:d:\cpp\cs1604\final\final\source\1_task1\main.cpp
+	<iostream>
+	"field.h"
+	"engine.h"
+
+1747724672 d:\cpp\cs1604\final\final\source\1_task1\engine.h
+	<iostream>
+	"field.h"
+
+1748014374 source:d:\cpp\cs1604\final\final\source\1_task1\terrain.cpp
+	<cassert>
+	"terrain.h"
+
+1748048765 source:d:\cpp\cs1604\final\final\source\1_task1\unit.cpp
+	<string>
+	<cassert>
+	"unit.h"
+	<iostream>
+
+1748053628 source:d:\cpp\cs1604\final\battlefield\actions.cpp
+	"actions.h"
+	"unit.h"
+	<cmath>
+	<cassert>
+	<vector>
+
+1748053632 d:\cpp\cs1604\final\battlefield\actions.h
+	<vector>
+	"field.h"
+
+1747812471 d:\cpp\cs1604\final\battlefield\field.h
+	"Grid.h"
+	"terrain.h"
+	"unit.h"
+
+1747724672 d:\cpp\cs1604\final\battlefield\grid.h
+	<vector>
+	<cassert>
+	<iostream>
+
+1748081076 d:\cpp\cs1604\final\battlefield\terrain.h
+	<string>
+
+1748081076 d:\cpp\cs1604\final\battlefield\unit.h
+
+1747724672 source:d:\cpp\cs1604\final\battlefield\algorithms.cpp
+	"algorithms.h"
+	<vector>
+	"Grid.h"
+	<cassert>
+
+1747724672 d:\cpp\cs1604\final\battlefield\algorithms.h
+	"Grid.h"
+	"field.h"
+
+1748094470 source:d:\cpp\cs1604\final\battlefield\field.cpp
+	<cassert>
+	"field.h"
+
+1747724672 source:d:\cpp\cs1604\final\battlefield\main.cpp
+	<iostream>
+	"field.h"
+	"engine.h"
+
+1748070936 d:\cpp\cs1604\final\battlefield\engine.h
+	<iostream>
+	"field.h"
+
+1748081081 source:d:\cpp\cs1604\final\battlefield\terrain.cpp
+	<cassert>
+	"terrain.h"
+
+1748094470 source:d:\cpp\cs1604\final\battlefield\unit.cpp
+	<string>
+	<cassert>
+	"unit.h"
+	<iostream>
+
+1748408264 source:d:\cpp\cs1604\final\battlefield\engine.cpp
+	<iomanip>
+	"engine.h"
+	"terrain.h"
+	"unit.h"
+	"actions.h"
+	"algorithms.h"
+	<sstream>
+	<string>
+	<vector>
+
